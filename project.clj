@@ -1,4 +1,4 @@
-(defproject clj-authur "0.0.1-SNAPSHOT"
+(defproject clj-authur "0.0.2-SNAPSHOT"
   :description "Client for authur.wilbur.io"
   :dependencies [[org.clojure/clojure "1.3.0"]
                  [clj-http "0.3.1"]
